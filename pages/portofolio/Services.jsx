@@ -13,7 +13,7 @@ const services = () => {
             <h1 className='text-indigo-900 text-6xl font-bold text-center'>My Expertise</h1>
             
             {/* section pertama  */}
-            <div className='flex justify-items-start items-center mx-40 gap-10 mt-20'>
+            <div className='md:flex sm:flex-col md:flex-row justify-center items-center gap-10 mt-10'>
                 <div className='flex flex-col justify-center items-center'>
                     {/* blog pertama */}
                     <div className='flex justify-center items-center cursor-pointer'>
